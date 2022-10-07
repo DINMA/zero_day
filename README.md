@@ -1,2 +1,2 @@
 # zero_day
-This is my first respository as a full-stack software engineer 
+This file is mandatory in projects 
